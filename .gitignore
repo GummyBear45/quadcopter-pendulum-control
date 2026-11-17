@@ -1,0 +1,8 @@
+# MATLAB / Simulink build artefacts
+slprj/
+*.slxc
+*.asv
+*.autosave
+*.mex*
+# Personal documents
+*.pdf
